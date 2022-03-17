@@ -125,3 +125,8 @@ footer {
   padding-top: 0;
   text-align: center;
 }
+
+body{
+  background-color: rgb(69, 31, 173);
+  color: white;
+}
